@@ -135,7 +135,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#FFE4E1',
+    backgroundColor: '#860111',
     paddingHorizontal: 20,
   },
   header: {
@@ -240,7 +240,7 @@ const styles = StyleSheet.create({
   taskCard: {
     padding: 25,
     marginVertical: 10,
-    backgroundColor: '#0000FF',
+    backgroundColor: '#F5F5F5',
     borderRadius: 15,
     
     height: 100,
