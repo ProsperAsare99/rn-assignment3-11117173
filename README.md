@@ -54,5 +54,5 @@ Include screenshots of the application here.
 ![react3](https://github.com/asareprosper143/rn-assignment3-11117173/assets/151519158/86854b60-43f8-4419-949c-cc68a5f2f409)
 
 ## Resources
-Icons and other resources are downloaded from the provided Figma file.
+Icons and other resources are downloaded from the provided Figma file.https://www.figma.com/design/nk9YKIdz4RFypdwF9mtQTm/DCIT-202---Assignment-3?node-id=1-6&t=UofangAXpqWLUTZQ-0
 
