@@ -18,7 +18,13 @@ A component that displays a list of ongoing tasks. Each task includes a title an
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    ### Installation
+
+1. Clone the repository:
+
+    sh
+    git clone https://github.com/asareprosper143/(https://github.com/asareprosper143/rn-assignment3-11117173)
+
     ```
 
 2. Navigate to the project directory:
